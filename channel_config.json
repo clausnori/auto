@@ -51,7 +51,7 @@
       "постеры"
       
     ],
-    "delay_between_posts": 1
+    "delay_between_posts": 10
   },
   "media_settings": {
     "download_media": true,
