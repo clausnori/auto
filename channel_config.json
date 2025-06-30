@@ -1,0 +1,73 @@
+{
+  "channels": {
+    "@nekospaceplay#234610": [
+      "@testaasaa",
+      "@infomlbb",
+      "@mlbbesports"
+    ],
+    "@neko_spaces": [
+      "@androidinsider_ru",
+      "@test_coumtr",
+      "@MahiruANews",
+      "@animenews121",
+      "@animetarakans",
+      "@advance_emp",
+      "@ongakuone"
+    ]
+  },
+  "filters": {
+    "min_length": 20,
+    "keywords_exclude": [
+      "реклама",
+      "spam",
+      "подписывайтесь",
+      "канал:",
+      "🔥РЕКЛАМА",
+      "💰",
+      "👆",
+      "подпишись"
+    ],
+    "keywords_include": [
+      "тест",
+      "аниме",
+      "Аниме",
+      "#анонс",
+      "анонс",
+      "сезон",
+      "Сезон",
+      "тизер",
+      "Тизер",
+      "Премьера",
+      "премьера",
+      "промоалмазы",
+      "Промоалмазов",
+      "Новый облик",
+      "новый облик",
+      "облики",
+      "Облики",
+      "новости",
+      "Новость",
+      "постер",
+      "постеры"
+      
+    ],
+    "delay_between_posts": 1
+  },
+  "media_settings": {
+    "download_media": true,
+    "temp_dir": "temp_media",
+    "max_file_size": 52428800,
+    "allowed_extensions": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".gif",
+      ".mp4",
+      ".webm",
+      ".pdf",
+      ".doc",
+      ".docx"
+    ],
+    "clean_temp_files": true
+  }
+}
